@@ -6,7 +6,7 @@ build-backend = "maturin"
 name = "openblup"
 version = "0.1.0"
 description = "Open-source REML and BLUP for plant and animal breeding"
-requires-python = ">=3.8"
+requires-python = ">=3.8, <3.14"
 license = {text = "MIT OR Apache-2.0"}
 authors = [{name = "Jakob"}]
 keywords = ["breeding", "BLUP", "REML", "mixed-models", "genetics"]
